@@ -1,4 +1,4 @@
-#import "@local/abyss-book:0.2.7": *
+#import "@local/abyss-book:0.3.0": *
 
 #show: abyss-book.with(
   title: [高端深渊人特别型号],
