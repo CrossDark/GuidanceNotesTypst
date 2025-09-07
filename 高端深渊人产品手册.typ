@@ -13,7 +13,7 @@
     enabled: true,
     title: "附录",
     heading-numbering-format: "",
-    body: none,
+    body: include "高端深渊人产品手册附录.typ",
   ),
   bibliographys: bibliography("高端深渊人产品手册.yml", title: "参考")
 )
@@ -254,7 +254,7 @@
 
 除特别说明外,所有基础型号的功能进阶型号均具有,不再重复说明
 
-以下型号均为普通型号,还有一些我和其它组织推出的联名型号请见这里@
+以下型号均为普通型号,还有一些我和其它组织推出的联名型号请见这里@高端深渊人特别型号
 
 == 实验型
 
