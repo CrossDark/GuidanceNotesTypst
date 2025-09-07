@@ -9,6 +9,12 @@
   figure-index: (enabled: true),
   table-index: (enabled: true),
   listing-index: (enabled: true),
+  appendix: (
+    enabled: true,
+    title: "附录",
+    heading-numbering-format: "",
+    body: none,
+  ),
   bibliographys: bibliography("高端深渊人产品手册.yml", title: "参考")
 )
 
