@@ -1,0 +1,73 @@
+MWDW-234BT:
+  type: book
+  title: MWDW-234BT说明书
+  author: 
+    - 人类资源库
+    - 人类标准化组织
+
+枢机深渊人特别型号:
+  type: book
+  title: 枢机深渊人特别型号
+  author: 深渊
+  abstract: 枢机深渊人是我基于日用深渊人的研发经验,全新研发的一款人型生物,彻底解决了工具人的一系列历史遗留问题.支持*无背景辐射区*,兼顾工作和娱乐.拥有极高的智慧和稳定可靠的身体.根据不同需求有多种型号可供选择.本系列额外推出了许多*联名型号*和*特别型号*,这些型号是与其他组织合作开发,或针对特定需求设计的.具有独特的功能,外观或性能,以满足特定用户群体的需求.同时也有特别的销售和售后模式
+
+枢机深渊人品鉴报告:
+  type: book
+  title: 枢机深渊人品鉴报告
+  author: 人类与类人品鉴协会
+
+玩物会特级玩具名录:
+ type: book
+ title: 玩物会特级玩具名录
+ author: 玩物会
+
+高端生物工具排行榜:
+ type: book
+ title: 高端生物工具排行榜
+ author: 星际垄断集团生物公司统计组
+
+I10接口:
+ type: book
+ title: I10接口
+ author: 人类标准化组织
+
+H50接口:
+  type: book
+  title: H50接口
+  author: 人类标准化组织
+
+最佳被统治者:
+  type: book
+  title: 最佳被统治者
+
+人型生物博物馆藏品证书:
+  type: book
+  title: 人型生物博物馆藏品证书
+  author: 人型生物博物馆
+
+奴隶奴役报告:
+  type: book
+  title: 奴隶奴役报告
+  author: 奴隶主联盟
+
+生物质量检测报告:
+  type: book
+  title: 生物质量检测报告
+  author: 生物质量检测协会
+
+检测报告:
+  type: book
+  title: 检测报告
+  author: 9334测试组
+
+星际生物消费报告:
+  type: book
+  title: 星际生物消费报告
+
+资产评估报告:
+  type: book
+  title: 资产评估报告
+
+评级报告:
+  type: book
+  title: 评级报告
