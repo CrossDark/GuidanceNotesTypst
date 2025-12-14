@@ -1,6 +1,6 @@
-#import "@local/abyss-book:0.3.7": *
+#import "@preview/twilight-book:0.1.4": *
 
-#abyss-book.with(
+#show: book.with(
   title: [世界精要],
 
 )
