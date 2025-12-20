@@ -1,4 +1,4 @@
-#import "@preview/ourchat:0.2.1" as oc
+#import "@preview/ourchat:0.2.2" as oc
 #import oc.themes: *
 
 #let alice = wechat.user(name: [Alice], avatar: circle(fill: blue, text(white)[A]))
