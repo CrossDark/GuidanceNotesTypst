@@ -1,18 +1,27 @@
 #import "@preview/ourchat:0.2.2" as oc
 #import oc.themes: *
 
-#let alice = wechat.user(name: [Alice], avatar: circle(fill: blue, text(white)[A]))
-#let bob = wechat.user(name: [Bob], avatar: circle(fill: green, text(white)[B]))
+#let developer = discord.user(
+  name: [Dev],
+  avatar: circle(fill: purple, text(white)[D])
+)
+#let admin = discord.user(
+  name: [Admin],
+  avatar: circle(fill: red, text(white)[A])
+)
 
-#wechat.chat(
-  oc.time[Today 14:30],
+#discord.chat(
+  oc.time[Today at 2:14 PM],
 
-  oc.message(left, alice)[
-    Hey! How's the new project going?
+  oc.message(left, developer)[
+```python
+def optimize_query():
+    return cache_strategy.redis_cluster()
+```
+    What do you think about this approach? @admin
   ],
 
-  oc.message(right, bob)[
-    Great! Just finished the API integration.
-    The performance improvements are impressive! 🚀
+  oc.message(right, admin)[
+    @developer Looks good! The Redis cluster should handle the load well.
   ],
 )
