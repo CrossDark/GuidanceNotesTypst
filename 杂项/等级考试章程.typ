@@ -11,6 +11,7 @@
   figure-index: (enabled: true),
   table-index: (enabled: true),
   listing-index: (enabled: true),
+  text-size: 15pt,
 )
 
 = 流程
